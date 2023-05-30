@@ -16,4 +16,4 @@ Test Loss :       0.15091711096465588
 
 
 - #### Accuracy :
-![accuracy](https://github.com/namratha777/Brain-Cancer-Classifier/blob/main/accuracy.png)
+![accuracy](accuracy.png)
